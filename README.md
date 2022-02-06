@@ -1,1 +1,1 @@
-# exercism-elixir
+# Elixir Exercism
